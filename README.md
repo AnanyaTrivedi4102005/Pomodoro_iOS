@@ -12,6 +12,11 @@ A minimal and elegant iOS Pomodoro timer built using SwiftUI. This app helps you
 🔔 Optional haptic and sound feedback for session transitions
 
 ## 📱 Screenshots
+![image](https://github.com/user-attachments/assets/290cb156-e755-40f1-a27e-50ecc5efe0ca)
+![image](https://github.com/user-attachments/assets/3bc64144-f4bf-4599-ab44-80c6d7e3314e)
+![image](https://github.com/user-attachments/assets/8c98ea1c-013b-4122-8cb7-9d71d7036c3c)
+![image](https://github.com/user-attachments/assets/dd73c774-63f0-4d25-b768-0179d6d618eb)
+![image](https://github.com/user-attachments/assets/466bfea5-ebea-46a5-8703-541cc0baafe5)
 
 
 ## 🧠 What is the Pomodoro Technique?
